@@ -1,10 +1,4 @@
-/*--
-	Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-/*-- Reset-Code --*/
+
 
 body {
 	padding: 0;
@@ -49,12 +43,7 @@ p {
 	font-family: 'Ubuntu', sans-serif;
     color: white;
 }
-.information_personel{
-    background-image: url(../images/map.jpg);
-   width:auto ;
-   height: auto;
-}
-.contact-section {
+ntact-section {
     padding: 0 !important; }
 
 ul {
@@ -597,7 +586,7 @@ li.agile-it-adress-left b {
 .w3-about-grid-left1 img {
     width: 50%;
     object-position: right;
-    border-radius: 40%;
+    border-radius: 30%;
 }
 .w3-about-grid-right2 img {
     width: 100%;
