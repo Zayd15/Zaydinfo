@@ -89,6 +89,10 @@ a:focus, a:hover {
     width: 60%;
     float: left;
 }
+.media{
+background-image: url(../images/../images/../images/222.webp);
+background-size: contain;
+}
 .col-md-4.w3-banner-grid-right{
     width: 40%;
     float: left;
@@ -591,9 +595,9 @@ li.agile-it-adress-left b {
 	position: relative;
 }
 .w3-about-grid-left1 img {
-    width: 60%;
+    width: 50%;
     object-position: right;
-    border-radius: 50%;
+    border-radius: 40%;
 }
 .w3-about-grid-right2 img {
     width: 100%;
@@ -1007,9 +1011,7 @@ ul.simplefilter {
 	width:100%;
     text-align: center;
 }
-.information_personel{
-    background-image: url(../images/map.jpg);
-}
+
 
 .jm-item-title {
 	text-align:center;
